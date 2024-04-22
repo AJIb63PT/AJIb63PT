@@ -9,12 +9,13 @@
 
 - 💬 Ask me about **Vue, React, JS**
 
-- 📫 How to reach me **albert.xalimow@gmail.com**
+
 
 - 📄 Know about my experiences [https://career.habr.com/ajib63pt](https://career.habr.com/ajib63pt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 **albert.xalimow@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
