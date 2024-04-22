@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AJIb63PT?tab=repositories](https://github.com/AJIb63PT?tab=repositories)
 
-- Some my Github Pages [Weather on Vue](https://ajib63pt.github.io/vue3-ts/), [Online Store on React](https://ajib63pt.github.io/react-store)
+- 📝 Some my Github Pages [Weather on Vue](https://ajib63pt.github.io/vue3-ts/), [Online Store on React](https://ajib63pt.github.io/react-store)
 
 - 💬 Ask me about **Vue, React, JS**
 
