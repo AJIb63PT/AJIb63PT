@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 Mail **[albert.xalimow@gmail.com](mailto:albert.xalimow@gmail.com)**
-- 📲 Mail **[Telegram](https://t.me/AJIb63PT)**
+- 📫 **[albert.xalimow@gmail.com](mailto:albert.xalimow@gmail.com)**
+- 📲 **[Telegram](https://t.me/AJIb63PT)**
 
 
 <h3 align="left">Languages and Tools:</h3>
