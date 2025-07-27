@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AJIb63PT?tab=repositories](https://github.com/AJIb63PT?tab=repositories)
 
 - 📄 About my experiences [https://career.habr.com/ajib63pt](https://career.habr.com/ajib63pt)
-- 🚀 GoogleChrome workbox contributor [Contributors]([https://career.habr.com/ajib63pt](https://github.com/GoogleChrome/workbox/graphs/contributors))
+- 🚀 GoogleChrome workbox contributor [Contributors](https://github.com/GoogleChrome/workbox/graphs/contributors)
 
 <h3 align="left">Connect with me:</h3>
 
