@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Albert Khalimov</h1>
-<h3 align="center">Frontend developer and Master of Systems and Production Processes Authorization</h3>
+<h3 Web developer and Master of Systems and Production Processes Authorization</h3>
 
 - 🔭 I’m currently working on [Full Body Routine](https://github.com/AJIb63PT/full-body-routine)
 
