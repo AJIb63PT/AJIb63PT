@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajib63pt&show_icons=true&locale=en&layout=compact" alt="ajib63pt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajib63pt&" alt="ajib63pt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajib63pt&" alt="ajib63pt" /> </p>
